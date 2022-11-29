@@ -43,8 +43,8 @@
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans",   "&trans"
     ], [
        "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans",              "&trans",  "&none", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&none", "&trans",
-       "&trans", "&trans", "&trans", "&macro_delete_email",  "&none", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp DOWN", "&kp UP", "&macro_move_email",  "&none", "&trans",
+       "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&none", "&trans",
+       "&trans", "&trans", "&trans", "&macro_delete_email", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp DOWN", "&kp UP", "&macro_move_email",  "&none", "&trans",
        "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",            "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans",              "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans"
     ]
