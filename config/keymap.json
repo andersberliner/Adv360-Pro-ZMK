@@ -37,13 +37,13 @@
         "&none",        "&none",        "&none",   "&bl BL_INC",   "&bl BL_DEC", "&rgb_ug RGB_TOG",                       "&bl BL_TOG",       "&none",        "&none",   "&bl BL_TOG", "&rgb_ug RGB_TOG",   "&bl BL_INC",   "&bl BL_DEC",                  "&none",  "&none",  "&none"
     ], [
               "&kp GRAVE",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",           "&kp NUMBER_6", "&trans", "&kp NUMBER_7", "&kp NUMBER_8", "&kp NUMBER_9", "&kp NUMBER_0", "&kp MINUS",        "&kp EQUAL",
-                 "&trans",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",                 "&trans", "&trans",       "&trans",       "&trans",       "&trans",       "&trans",    "&trans", "&kp LEFT_BRACKET",
-                 "&trans",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",                 "&trans", "&trans",       "&trans",                                       "&trans",    "&trans",           "&trans",   "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",
+                 "&trans",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",                 "&tog 1", "&tog 2",       "&trans",       "&trans",       "&trans",       "&trans",    "&trans", "&kp LEFT_BRACKET",
+                 "&trans",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",                 "&tog 4", "&trans",       "&trans",                                       "&trans",    "&trans",           "&tog 0",   "&trans",    "&trans", "&trans", "&trans", "&trans", "&trans",
                  "&trans",       "&trans",           "&trans",       "&trans",            "&trans", "&trans",                 "&trans", "&trans",       "&trans",       "&trans",       "&trans",       "&trans",    "&trans",           "&trans",   "&trans",    "&trans", "&trans", "&trans", "&kp UP", "&trans",
        "&kp LEFT_CONTROL", "&kp LEFT_ALT", "&kp LEFT_COMMAND", "&kp CAPSLOCK", "&kp RIGHT_BRACKET", "&trans",                 "&trans", "&trans",       "&trans",       "&trans",       "&trans",        "&none",     "&none",         "&kp LEFT", "&kp DOWN", "&kp RIGHT"
     ], [
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",
-       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",  "&none", "&trans",
+       "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&tog 1", "&trans", "&trans", "&trans", "&trans", "&trans",  "&none", "&trans",
        "&trans", "&trans", "&trans",    "&lt", "&trans", "&trans",           "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans", "&trans", "&kp DOWN", "&kp UP", "&macro_move_email",  "&none", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans", "&trans",            "&trans", "&trans", "&trans",
        "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",   "&trans"
